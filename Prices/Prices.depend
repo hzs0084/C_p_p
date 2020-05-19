@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1589852985 source:c:\hemant\c ++\pirple projects\prices\main.cpp
+	<iostream>
+	<iomanip>
+
